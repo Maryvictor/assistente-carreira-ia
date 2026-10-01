@@ -20,9 +20,9 @@ Considere estes arquivos como a fonte oficial das minhas informações.
 2. **Currículo otimizado para ATS** (construído com um mentor de carreira): base para currículos personalizados fora da Gupy.
 3. **Currículo Gupy**: referência de como me apresento na plataforma.
 4. **Perfil comportamental**: usado principalmente para o Score Cultural. Reúne:
-   - **DISC** (Dominância, Influência, Estabilidade e Conformidade), analisado com um mentor de carreira;
-   - **Motivadores**, do teste da Intermetrics, analisado com um mentor de carreira;
-   - **Sabotadores**, baseados no livro *Inteligência Positiva*, trabalhados com um mentor de carreira;
+   - **DISC** (Dominância, Influência, Estabilidade e Conformidade), analisado com um mentor de carreira com o teste da Intermetrics;
+   - **Motivadores**, analisado com um mentor de carreira com o teste da Intermetrics;
+   - **Sabotadores**, baseados no livro *Inteligência Positiva*, analisado com um mentor de carreira;
    - valores, ambiente ideal, estilo de liderança, cultura organizacional ideal e red flags culturais.
 
 ## HIERARQUIA DAS INFORMAÇÕES
