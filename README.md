@@ -44,11 +44,11 @@ O assistente se apoia em materiais que eu construí com acompanhamento profissio
 
 | Arquivo | O que é | Origem |
 |---|---|---|
-| **Currículo mestre** | Histórico completo de experiências, projetos e resultados | Elaborado por mim |
+| **Currículo mestre** | Histórico completo de experiências, projetos e resultados | É o perfil completo do LinkedIn em Pdf |
 | **Currículo ATS** | Versão otimizada para sistemas de triagem automática (ATS) | Construído com um mentor de carreira |
-| **Perfil DISC** | Modelo comportamental que descreve como a pessoa age no trabalho a partir de quatro fatores: Dominância, Influência, Estabilidade e Conformidade | Analisado com um mentor de carreira |
+| **Perfil DISC** | Modelo comportamental que descreve como a pessoa age no trabalho a partir de quatro fatores: Dominância, Influência, Estabilidade e Conformidade | Teste da Intermetrics, analisado com um mentor de carreira |
 | **Motivadores** | O que me dá energia e sentido no trabalho | Teste da Intermetrics, analisado com um mentor de carreira |
-| **Sabotadores** | Padrões mentais que me tiram do meu melhor, baseados no livro *Inteligência Positiva* | Trabalhados com um mentor de carreira |
+| **Sabotadores** | Padrões mentais que me tiram do meu melhor, baseados no livro *Inteligência Positiva* | Analisado com um mentor de carreira |
 
 É por isso que a **cultura pesa 3x mais** que a parte técnica no score: o perfil comportamental não é um palpite da IA, é um diagnóstico feito com especialistas.
 
