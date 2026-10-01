@@ -10,62 +10,19 @@ Projeto pessoal de **Maria Victor**, construído com **Claude (Anthropic), Claud
 
 A partir do link de uma vaga, o assistente segue um fluxo fixo:
 
+
 ```mermaid
 flowchart LR
-    A[Link da vaga] --> B[Leitura da vaga]
-    B --> C[Pesquisa da empresa]
-    C --> D[Glassdoor e salário]
-    D --> E[Score Técnico + Cultural]
-    E --> F{Deseja se candidatar?}
-    F -- Sim --> G[Currículo ou carta<br/>personalizados]
-    F -- Não --> H[Próxima vaga]
+    A[Link da vaga] --> B[Análise da vaga<br/>e da empresa]
+    P[Meu currículo<br/>e perfil DISC] --> C
+    B --> C[Score técnico<br/>+ cultural]
+    C --> D{Vale a pena?}
+    D -- Sim --> E[Currículo ou carta<br/>personalizados]
+    D -- Não --> F[Próxima vaga]
 ```
 
+
 ```
-flowchart LR
-    A[Link da vaga] --> B[Leitura da vaga]
-    B --> C[Identificar empresa, cargo,<br/>senioridade, localização e modalidade]
-    C --> D[Extrair responsabilidades,<br/>requisitos, diferenciais e stack]
-    D --> E[Identificar palavras-chave ATS]
-    E --> F{É Gupy?}
-
-    F --> G[Pesquisa da empresa]
-    G --> H[Site + Trabalhe Conosco]
-    H --> I[Missão, visão, valores<br/>e cultura]
-    I --> J[LinkedIn da empresa]
-
-    J --> K[Glassdoor]
-    K --> L[Avaliações, cultura,<br/>ambiente e equilíbrio]
-    L --> M[Faixa salarial]
-
-    M --> N[Match]
-    N --> O[Score Técnico]
-    N --> P[Score Cultural]
-    O --> Q[Score Geral]
-    P --> Q
-    Q --> R[(Técnico × 1 + Cultural × 3) ÷ 4]
-
-    R --> S[Análise da vaga]
-    S --> T[Pontos fortes + Gaps técnicos<br/>+ Alertas culturais]
-    T --> U[Faixa salarial + ATS<br/>+ Perfil da vaga]
-    U --> V[Perfil investigativo<br/>da função]
-    V --> W{Deseja se candidatar?}
-
-    W -- Não --> X[Próxima vaga]
-    W -- Sim --> Y{É Gupy?}
-
-    Y -- Sim --> Z[Carta de apresentação<br/>1.500 caracteres]
-    Z --> AA[Destacar 3 principais<br/>tecnologias/competências]
-    AA --> AB[Explicar aderência<br/>com o currículo]
-
-    Y -- Não --> AC[Currículo personalizado]
-    AC --> AD[Usar currículo ATS<br/>+ Profile_4]
-    AD --> AE[Adaptar experiências,<br/>resultados e palavras-chave]
-    AE --> AF[Currículo ATS<br/>máx. 2 páginas]
-
-    AB --> AG[Finalizar candidatura]
-    AF --> AG
-
 Score Geral = (Técnico × 1 + Cultural × 3) ÷ 4
 
 ≥ 65%   → Vai nessa! 🚀
