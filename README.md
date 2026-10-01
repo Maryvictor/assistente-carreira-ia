@@ -44,7 +44,7 @@ O assistente se apoia em materiais que eu construí com acompanhamento profissio
 
 | Arquivo | O que é | Origem |
 |---|---|---|
-| **Currículo mestre** | Histórico completo de experiências, projetos e resultados | É o perfil completo do LinkedIn em Pdf |
+| **Currículo mestre** | Histórico completo de experiências, projetos e resultados | É o perfil completo do LinkedIn em PDF |
 | **Currículo ATS** | Versão otimizada para sistemas de triagem automática (ATS) | Construído com um mentor de carreira |
 | **Perfil DISC** | Modelo comportamental que descreve como a pessoa age no trabalho a partir de quatro fatores: Dominância, Influência, Estabilidade e Conformidade | Teste da Intermetrics, analisado com um mentor de carreira |
 | **Motivadores** | O que me dá energia e sentido no trabalho | Teste da Intermetrics, analisado com um mentor de carreira |
